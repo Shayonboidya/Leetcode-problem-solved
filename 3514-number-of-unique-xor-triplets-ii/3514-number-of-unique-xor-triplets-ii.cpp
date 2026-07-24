@@ -2,21 +2,36 @@ class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
         int n = nums.size();
+        int t = 1, mx = *max_element(nums.begin(), nums.end());
+        while (t <= mx) {
+            t *= 2;
+        }
+
         // pair xor
-        unordered_set<int> s1;
-        for(int i =0; i< n;i++){
-            for(int j = i;j < n;j++){
-                s1.insert(nums[i] ^ nums[j]);
+        vector<bool> s1(t, false);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                if (!s1[nums[i]^nums[j]]) {
+                    s1[nums[i]^nums[j]] = true;
+                }
             }
         }
         // triplet xor
-        unordered_set<int> s2;
-        for(int x:s1){
-            for(int &num: nums){
-                s2.insert(x ^ num);
+        vector<bool> s2(t, false);
+        for (int i = 0; i < t; i++) {
+            if (s1[i]) {
+                for (int& num : nums) {
+                    if(!s2[i ^ num]){
+                        s2[i ^ num] = true;
+                    }
+                }
             }
         }
-        return s2.size();
-
+        int ans = 0;
+        for(int i =0;i < t;i++){
+            if(s2[i])ans++;
+        }
+        return ans;
     }
 };
