@@ -1,15 +1,18 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        string s = to_string(n);
-        sort(s.begin(), s.end());
-        int l = s.size();
-        int ans = 0;
-        if(l < 2){
-            ans = s[0]-'0';
-            return ans;
+        int a = -1, b = -1;
+        while(n > 0){
+            int r = n % 10;
+            if(r >= a){
+                b = a;
+                a = r;
+            }
+            else if(a > b && b < r){
+                b = r;
+            }
+            n /= 10;
         }
-        int a = s[l-1]-'0', b = s[l-2] - '0';
         return a * b;
     }
 };
