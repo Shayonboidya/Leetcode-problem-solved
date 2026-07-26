@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
