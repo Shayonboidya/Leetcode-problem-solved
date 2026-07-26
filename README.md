@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -122,6 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
 ---
 
