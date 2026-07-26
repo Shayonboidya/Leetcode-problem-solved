@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
