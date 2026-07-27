@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
