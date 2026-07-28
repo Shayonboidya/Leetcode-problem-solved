@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +250,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
 ---
 
