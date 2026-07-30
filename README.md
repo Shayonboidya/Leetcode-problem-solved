@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
