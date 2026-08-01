@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -237,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,6 +274,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
 ---
 
