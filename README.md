@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +285,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
 ---
 
