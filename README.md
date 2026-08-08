@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
