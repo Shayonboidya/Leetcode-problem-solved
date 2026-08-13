@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -333,6 +335,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
 ---
 
