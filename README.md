@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -312,16 +316,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +353,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
 ---
 
