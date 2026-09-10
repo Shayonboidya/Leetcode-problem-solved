@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -427,6 +428,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
 ---
 
