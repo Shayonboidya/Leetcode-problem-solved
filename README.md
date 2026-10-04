@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1096-brace-expansion-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0678-valid-parenthesis-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
