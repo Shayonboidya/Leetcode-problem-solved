@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0836-rectangle-overlap) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
