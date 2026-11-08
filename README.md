@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1406-stone-game-iii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
