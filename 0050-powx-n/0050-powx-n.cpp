@@ -1,22 +1,24 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if(n == 0) return 1;
-        if(n == 1) return x;
-        long binform = n;
-        if(binform < 0){
-            x =1/x;
-            binform = -binform;
+        long bits = n;
+        if (x == 0)
+            return 0;
+        if (x == 1 || n == 0)
+            return 1;
+        bool sign = true;
+        if (n < 0) {
+            sign = false;
+            bits = -bits;
         }
-        double ans = 1;
-        while(binform > 0){
-            if(binform&1){
-                ans *= x;
+        double sum = 1;
+        while (bits > 0) {
+            if (bits & 1) {
+                sum *= x;
             }
             x *= x;
-            binform >>= 1;
+            bits >>= 1;
         }
-        return ans;
-        
+        return sign ? sum : 1 / sum;
     }
 };
