@@ -1,40 +1,34 @@
 class Solution {
 public:
-    void marge(vector<int>& v, int l, int m, int r) {
-        vector<int> t;
-        int i = l, j = m+1;
-        while (i <= m && j <= r) {
-            if (v[i] <= v[j]) {
-                t.push_back(v[i++]);
-            } else {
-                t.push_back(v[j++]);
+    // quick sort
+
+
+    int partition(vector<int>&v, int l, int r){
+        int randomIdx = l + rand() % (r - l +1);
+        swap(v[randomIdx], v[r]);
+        int pivote = v[r];
+        int pi = l;
+        for(int i = l; i < r;i++){
+            if(pivote > v[i]){
+                swap(v[pi], v[i]);
+                pi++;
             }
         }
-        while (i <= m) {
-            t.push_back(v[i++]);
-        }
-        while (j <= r) {
-            t.push_back(v[j++]);
-        }
-
-        for (int i = 0; i < t.size(); i++) {
-            v[l + i] = t[i];
-        }
-        return;
+        swap(v[pi],v[r]);
+        return pi;
     }
-    void margeSort(vector<int>& v, int l, int r) {
+    void QuiackSort(vector<int>& v, int l, int r) {
         if (l >= r)
             return;
-        int mid = l + (r - l) / 2;
-        margeSort(v, l, mid);
-        margeSort(v, mid+1, r);
-        marge(v, l, mid, r);
+        int pivote = partition(v,l, r);
+        QuiackSort(v, l, pivote-1);
+        QuiackSort(v, pivote+1, r);
         return;
     }
 
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size()-1;
-        margeSort(nums,0,n);
+        QuiackSort(nums,0,n);
         return nums;
     }
 };
