@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shayonboidya/Leetcode-problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
